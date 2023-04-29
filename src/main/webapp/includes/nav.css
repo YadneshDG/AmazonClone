@@ -1,0 +1,131 @@
+@charset "ISO-8859-1";
+
+/* Nav1 start */
+
+#Nav1{
+    background-color: rgb(32, 29, 45);
+    padding: 15PX;
+    
+}
+#Nav1 a{
+    text-decoration: none;
+
+}
+
+.logo img{
+    width: 110px;
+    padding-top: 15px;
+}
+.fa.fa-map-marker{
+    color: white;
+    font-size: 25px;
+    padding-left: 20px;
+}
+.btn button{
+ width: 50px;
+ height: 45px;
+ border-radius: 10px 0px 0px 10px;
+ border-color: white;
+ border-collapse: collapse;
+}
+
+.srch input{
+ width: 750px;
+ height: 45px;
+ margin-left: -18.5px;
+ border-color: white;
+ padding-bottom: 6px;
+}
+
+.btn2 button{
+    width: 50px;
+    height: 45px;
+    margin-left: -51px;
+    padding-bottom: 6px;
+    border-radius: 0px 10px 10px 0px;
+    border-color: white;
+    background-color: rgb(215, 202, 78);
+}
+
+.fa.fa-search{
+    font-size: 22px;
+    font-weight: 10;
+    border-color:0px solid rgb(215, 202, 78);
+    
+}
+.lang img{
+    width: 30px;
+    margin-left: 50px;
+}
+.lang{
+    
+    color: white;
+}
+
+.fa.fa-sort-desc{
+    margin-left: 5px;
+    font-weight: lighter;
+}
+
+.act{
+    color: white;
+    margin-left: 20px;
+}
+
+.ord{
+    color: white;
+    margin-left: 20px;
+}
+.ct{
+    color: white;
+    margin-left: 10px;
+    margin-left: 50px;
+}
+.fa.fa-shopping-cart{
+    font-size: 30px;
+}
+
+/* Nav1 end */
+
+/* Nav2 Start */
+
+#Nav2{
+    background-color: rgb(65, 64, 69);
+    padding: 15PX;
+}
+#Nav2 a{
+    text-decoration: none;
+    padding-left: 20px;
+    text-align: center;
+    color: white;
+    margin-left: 25px;
+    
+}
+
+
+/*Card*/
+#product{
+  margin-top: -200px;
+}
+#product div{
+  display: inline-block;
+  width: 20%;
+  padding: 10px;
+}
+.c1.card-body{
+  position: relative;
+}
+.card p{
+  margin-right: -230px;
+  margin-top:50px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+.card h5{
+  margin-right: -230px;
+
+}
+.card-body button{
+  width: 150px;
+  height: 50px;
+}
